@@ -1,0 +1,54 @@
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+a {
+  text-decoration: none;
+  font-size: 22px;
+  font-weight: bold;
+}
+a i {
+  color: #fff;
+}
+.social {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 10px auto;
+}
+@media only screen and (max-width: 767px) {
+  .social {
+    justify-content: center;
+  }
+}
+.social li {
+  margin-right: 10px;
+}
+.social li a {
+  color: #b9b9b9;
+  background-color: #313131;
+  font-size: 20px;
+  width: 50px;
+  height: 50px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  transition: 3s;
+  border-radius: 10px;
+}
+.social li a.facebook:hover {
+  background-color: #1877f2;
+}
+.social li a.linkedin:hover {
+  background-color: #1da1f2;
+}
+.social li a.github:hover {
+  background-color: #797474;
+}
+
+.link-colors{
+  background: -webkit-linear-gradient(#e05362, #d9609c, #7497eb, #5cbed9, #67d481);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

@@ -1,0 +1,934 @@
+{
+    "PS": [
+        {
+            "id": 1,
+            "name": "SONY PLAYSTATION (PlayStation 4)",
+            "model": "BATMAN ARKHAM KNIGHT LIMITED EDITION",
+            "storage space": "500GB",
+            "company": "Sony",
+            "catgory": "ps4",
+            "img": "https://now.estarland.com/images/products/91/52091/PS4-PlayStation-4-500GB-Batman-Arkham-Knight-LE-System-Trade-In-large-image.jpg",
+            "price": "500"
+        },
+        {
+            "id": 2,
+            "name": "SONY PLAYSTATION (PlayStation 4)",
+            "model": "CALL OF DUTY BLACK OPS III BUNDLE",
+            "storage space": "500GB",
+            "company": "Sony",
+            "catgory": "ps4",
+            "img": "https://now.estarland.com/images/products/51/51051/127100.jpg",
+            "price": "370"
+        },
+        {
+            "id": 3,
+            "name": "SONY PLAYSTATION (PlayStation 4)",
+            "model": "DESTINY: THE TAKEN KING LIMITED EDITION",
+            "storage space": "500GB",
+            "company": "Sony",
+            "catgory": "ps4",
+            "img": "https://now.estarland.com/images/products/28/48728/164521.jpg",
+            "price": "500"
+        },
+        {
+            "id": 4,
+            "name": "SONY PLAYSTATION (PlayStation 4)",
+            "model": "GOLD TACO BELL EDITION",
+            "storage space": "500GB",
+            "company": "Sony",
+            "catgory": "ps4",
+            "img": "https://now.estarland.com/images/products/83/52583/126547.jpg",
+            "price": "800"
+        },
+        {
+            "id": 5,
+            "name": "SONY PLAYSTATION (PlayStation 4)",
+            "model": "REFURBISHED SYSTEM - GRADE A",
+            "storage space": "500GB",
+            "company": "Sony",
+            "catgory": "ps4",
+            "img": "https://now.estarland.com/images/products/8/58208/PS4-Sony-PlayStation-4-Original-Model-Refurbished-System-large-image.jpg",
+            "price": "400"
+        },
+        {
+            "id": 6,
+            "name": "SONY PLAYSTATION (PlayStation 4)",
+            "model": "STAR WARS LIMITED EDITION SYSTEM TRADE-IN",
+            "storage space": "500GB",
+            "company": "Sony",
+            "catgory": "ps4",
+            "img": "https://now.estarland.com/images/products/43/53543/PS4-PlayStation-4-500GB-Star-Wars-LE-System-Trade-In-large-image.jpg",
+            "price": "500"
+        },
+        {
+            "id": 7,
+            "name": "SONY PLAYSTATION (PlayStation 4)",
+            "model": "SLIM",
+            "storage space": "1TB",
+            "company": "Sony",
+            "catgory": "ps4",
+            "img": "https://now.estarland.com/images/products/51/55051/166412.jpg",
+            "price": "300"
+        },
+        {
+            "id": 8,
+            "name": "SONY PLAYSTATION (PlayStation 4)",
+            "model": "SLIM GLACIER WHITE REFURBISHED SYSTEM",
+            "storage space": "500GB",
+            "company": "Sony",
+            "catgory": "ps4",
+            "img": "https://now.estarland.com/images/products/98/58798/PS4-PlayStation-4-Slim-500GB-White-Refurbished-System-large-image.jpg",
+            "price": "250"
+        },
+        {
+            "id": 9,
+            "name": "SONY PLAYSTATION (PlayStation 4)",
+            "model": "SLIM GLACIER WHITE REFURBISHED SYSTEM",
+            "storage space": "500GB",
+            "company": "Sony",
+            "catgory": "ps4",
+            "img": "https://now.estarland.com/images/products/98/58798/PS4-PlayStation-4-Slim-500GB-White-Refurbished-System-large-image.jpg",
+            "price": "250"
+        }
+    ],
+    "AccessorPs": [
+        {
+            "id": 1,
+            "title": "HDMI 3 PORT 4K SWITCH",
+            "company": "Electronics",
+            "img": "https://now.estarland.com/images/products/70/55470/168056.jpg",
+            "price": "25",
+            "catgory":"accessorPs"
+        },
+        {
+            "id": 2,
+            "title": "PLAYSTATION 4 DUALSHOCK 4",
+            "model": "BACK BUTTON ATTACHMENT",
+            "company": "Sony",
+            "img": "https://now.estarland.com/images/products/88/69988/PS4-Playstation-4-Dualshock-4-Back-Button-Attachment-large-image.jpg",
+            "price": "20",
+            "catgory":"accessorPs"
+        },
+        {
+            "id": 3,
+            "title": "PLAYSTATION 4 DUALSHOCK 4",
+            "model": "BACK BUTTON ATTACHMENT SONY",
+            "company": "Sony",
+            "img": "https://now.estarland.com/images/products/46/62546/PS4-PlayStation-4-DualShock-4-Back-Button-Attachment-Sony-product-image.jpg",
+            "price": "15",
+            "catgory":"accessorPs"
+        },
+        {
+            "id": 4,
+            "title": "PLAYSTATION 4 DUALSHOCK 4",
+            "model": "CONTROLLER CHARGING STATION",
+            "company": "Power A",
+            "img": "https://now.estarland.com/images/products/66/49366/115778.jpg",
+            "price": "15",
+            "catgory":"accessorPs"
+        },
+        {
+            "id": 5,
+            "title": "PLAYSTATION 4 DUALSHOCK 4",
+            "model": "BACK BUTTON ATTACHMENT",
+            "company": "sony",
+            "img": "https://now.estarland.com/images/products/88/69988/PS4-Playstation-4-Dualshock-4-Back-Button-Attachment-product-image.jpg",
+            "price": "20",
+            "catgory":"accessorPs"
+        },
+        {
+            "id": 6,
+            "title": "PLAYSTATION 4 LOGITECH",
+            "model": "G29 DRVING FORCE RACING WHEEL",
+            "company": " Logitech",
+            "img": "https://now.estarland.com/images/products/98/55898/169857.jpg",
+            "price": "300"
+            ,
+            "catgory":"accessorPs"
+        },
+        {
+            "id": 7,
+            "title": "PLAYSTATION 4 MOVE MOTION ",
+            "model": "MOVE MOTION CONTROLLER",
+            "company": " sony",
+            "img": "https://now.estarland.com/images/products/8/64408/PS4-Move-Motion-Controller-Large-Icon.jpg",
+            "price": "40"
+            ,
+            "catgory":"accessorPs"
+        }
+    ],
+    "dualshockPs": [
+        {
+            "id": 1,
+            "title": "PLAYSTATION 4 DUALSHOCK 4",
+            "model": "CONTROLLER GRAY BLUE ",
+            "company": "sony",
+            "img": "https://now.estarland.com/images/products/78/50378/118684.jpg",
+            "price": "75",
+            "catgory":"dualshockPs"
+        },
+        {
+            "id": 2,
+            "title": "PLAYSTATION 4 DUALSHOCK 4",
+            "model": "CONTROLLER JET BLACK BY",
+            "company": "sony",
+            "img": "https://now.estarland.com/images/products/77/43177/96744.jpg",
+            "price": "55",
+            "catgory":"dualshockPs"
+        },
+        {
+            "id": 3,
+            "title": "PLAYSTATION 4 DUALSHOCK 4",
+            "model": "CONTROLLER URBAN CAMOUFLAGE",
+            "company": "sony",
+            "img": "https://now.estarland.com/images/products/74/46574/127125.jpg",
+            "price": "50",
+            "catgory":"dualshockPs"
+        },
+        {
+            "id": 4,
+            "title": "PLAYSTATION 4 DUALSHOCK 4",
+            "model": "CONTROLLER WAVE BLUE",
+            "company": "sony",
+            "img": "https://now.estarland.com/images/products/98/45998/104900.jpg",
+            "price": "50",
+            "catgory":"dualshockPs"
+        },
+        {
+            "id": 5,
+            "title": "PLAYSTATION 4 DUALSHOCK 4",
+            "model": "CONTROLLER GOLD LIMITED EDITION",
+            "company": "sony",
+            "img": "https://now.estarland.com/images/products/10/67610/PS4-DualShock-4-Wireless-Controller-Gold-Limited-Edition-Sony-large-image.jpg",
+            "price": "55",
+            "catgory":"dualshockPs"
+        }
+    ],
+    "headphonesPs": [
+        {
+            "id": 1,
+            "title": "PLAYSTATION 4 Headphones",
+            "model": "DREAMGEAR GRX-340 ADVANCED WIRED GAMING",
+            "company": "dreamGEAR",
+            "img": "https://now.estarland.com/images/products/54/55154/166799.jpg",
+            "price": "35",
+            "catgory":"headphonesPs"
+        },
+        {
+            "id": 2,
+            "title": "PLAYSTATION 4 Headphones",
+            "model": "GRX-440 ADVANCED WIRED GAMING",
+            "company": "dreamGEAR",
+            "img": "https://now.estarland.com/images/products/8/58908/PS4-PlayStation-4-GRX-440-Advanced-Wired-Gaming-Headset-dreamGEAR-large-image.jpg",
+            "price": "48",
+            "catgory":"headphonesPs"
+        },
+        {
+            "id": 3,
+            "title": "PLAYSTATION 4 Headphones",
+            "model": "PLATINUM WIRELESS HEADSET",
+            "company": "sony",
+            "img": "https://now.estarland.com/images/products/58/54358/164340.jpg",
+            "price": "80",
+            "catgory":"headphonesPs"
+        },
+        {
+            "id": 4,
+            "title": "PLAYSTATION 5 Headphones",
+            "model": "PULSE 3D WIRELESS",
+            "company": "sony",
+            "img": "https://now.estarland.com/images/products/82/64982/PS5-Playstation-5-Pulse-3D-Wireless-Headset-Sony-large-image.jpg",
+            "price": "100",
+            "catgory":"headphonesPs"
+        }
+    ],
+    "GamePS": [
+        {
+            "id": 1,
+            "name": "A WAY OUT",
+            "description": "A Way Out is an action-adventure game played from a third-person perspective. It is specifically designed for split-screen cooperative multiplayer, which means that it must be played with another player through either local or online play. In the game, players control Leo and Vincent, two convicted prisoners who must break out of prison and stay on the run from authorities.",
+            "img": "https://now.estarland.com/images/products/59/55359/167669.jpg",
+            "price": "25",
+            "catgory": "gameps"
+        },
+        {
+            "id": 2,
+            "name": "AGONY  ",
+            "description": "Agony is a first-person, survival horror game set in Hell. You will begin your journey as a tormented Soul within the depths of the Underworld, without any memories of your past. Equipped with the special ability to control people on your journey - even possessing demons themselves - you'll have all the necessary tools to survive in the extreme conditions of Hell.",
+            "img": "https://now.estarland.com/images/products/11/55911/169962.jpg",
+            "price": "15",
+            "catgory": "gameps"
+        },
+        {
+            "id": 3,
+            "name": "AGATHA CHRISTIE: HERCULE POIROT - THE FIRST CASES",
+            "description": "Agatha Christie - Hercule Poirot: The First Cases is a detective and adventure game starring Hercule Poirot in one of his first cases before he became the legendary detective we know.",
+            "img": "https://now.estarland.com/images/products/66/65166/PS4-Agatha-Christie-Hercule-Poirot-The-First-Cases-large-image.jpg",
+            "price": "30",
+            "catgory": "gameps"
+        },
+        {
+            "id": 4,
+            "name": "ASSASSIN'S CREED IV: BLACK FLAG ",
+            "description": "It is 1715. Pirates rule the Caribbean and have established a lawless pirate republic. Among these outlaws is a fearsome young captain named Edward Kenway. His exploits earn the respect of pirate legends like Blackbeard, but draw him into an ancient war that may destroy everything the pirates have built.",
+            "img": "https://now.estarland.com/images/products/75/43175/126829.jpg",
+            "price": "40",
+            "catgory": "gameps"
+        },
+        {
+            "id": 5,
+            "name": "ASSASSIN'S CREED ODYSSEY",
+            "description": "The newest entry in Ubisoft's massively popular series of stealth-action games, Assassin's Creed Odyssey takes place in a far away land that is a first for the franchise: Ancient Greece. Take on the role of an assassin in a world filled with Spartans and Persians, explore real-world locations, and live up to your birthright",
+            "img": "https://now.estarland.com/images/products/63/56163/PS4-ASSASSINS-CREED-ODYSSEY-large-image.jpg",
+            "price": "25",
+            "catgory": "gameps"
+        },
+        {
+            "id": 6,
+            "name": "ASSASSIN'S CREED ORIGINS",
+            "description": "Assassin’s Creed Origins is a new beginning. Take on epic enemies with a whole new combat system. Explore the Great Pyramids and hidden tombs across the country of Ancient Egypt. Experience visceral quests that contribute to your overall progression and discover the origin story of the Assassin’s Brotherhood.",
+            "img": "https://now.estarland.com/images/products/89/53789/162207.jpg",
+            "price": "25",
+            "catgory": "gameps"
+        },
+        {
+            "id": 7,
+            "name": "ASSASSIN'S CREED SYNDICATE",
+            "description": "WELCOME TO THE FAMILY - London, 1868. The Industrial Revolution fattens the purses of the privileged while the working class struggles to survive – until an Assassin emerges from the underworld to rally to their defense. Rise to lead the world’s first organized crime family. Conquer the streets of London. Bring the ruling class to their knees. Make history in a visceral adventure unlike any game you’ve played before.",
+            "img": "https://now.estarland.com/images/products/35/47935/126833.jpg",
+            "price": "15",
+            "catgory": "gameps"
+        },
+        {
+            "id": 8,
+            "name": "ASSASSIN'S CREED VALHALLA",
+            "description": "Become Eivor, a legendary Viking raider on a quest for glory. Explore England's Dark Ages as you raid your enemies, grow your settlement, and build your political power.",
+            "img": "https://now.estarland.com/images/products/23/61523/PS4-Assassins-Creed-Valhalla-rating-update-large-image.jpg",
+            "price": "60",
+            "catgory": "gameps"
+        },
+        {
+            "id": 9,
+            "name": "BATTLEFIELD 2042",
+            "description": "Battlefield 2042 is a first-person shooter that marks the return to the iconic all-out warfare of the franchise. In a near-future world transformed by disorder, adapt and overcome dynamically-changing battlegrounds with the help of your squad and a cutting-edge arsenal. With support for 128 players, Battlefield™ 2042 brings unprecedented scale on vast environments across the globe. Players will take on several massive experiences, from updated multiplayer modes like Conquest and Breakthrough to the all-new Hazard Zone and Battlefield Portal.",
+            "img": "https://now.estarland.com/images/products/76/65176/PS4-Battlefield-2042-large-image.jpg",
+            "price": "30",
+            "catgory": "gameps"
+        },
+        {
+            "id": 10,
+            "name": "BATMAN: ARKHAM KNIGHT",
+            "description": "In the explosive finale to the Arkham series, Batman faces the ultimate threat against the city he is sworn to protect. The Scarecrow returns to unite an impressive roster of super villains, including Penguin, Two-Face and Harley Quinn, to destroy The Dark Knight forever. Batman: Arkham Knight introduces Rocksteady's uniquely designed version of the Batmobile, which is drivable for the first time in the franchise. The addition of this legendary vehicle, combined with the acclaimed gameplay of the Batman Arkham series, offers gamers the ultimate and complete Batman experience as they tear through the streets and soar across the skyline of the entirety of Gotham City. Be The Batman.",
+            "img": "https://now.estarland.com/images/products/91/45091/127279.jpg",
+            "price": "15",
+            "catgory": "gameps"
+        },
+        {
+            "id": 11,
+            "name": "BORDERLANDS: THE HANDSOME COLLECTION",
+            "description": "Borderlands: The Handsome Collection is the essential Borderlands compilation and includes the definitive versions of both Borderlands 2 and Borderlands: The Pre-Sequel, built specifically for next-gen consoles. PlayStation 4 and Xbox One customers will experience the absolute highest performance and highest fidelity graphics for any Borderlands game ever played on a video game console. For the first time in the franchise's history, play four-player split screen on a single television, all in stunning high definition.",
+            "img": "https://now.estarland.com/images/products/38/47138/126860.jpg",
+            "price": "8",
+            "catgory": "gameps"
+        },
+        {
+            "id": 12,
+            "name": "BRAVO TEAM VR",
+            "description": "Bravo Team is set in a fictional modern day Eastern European city. When your escort mission goes wrong and results in the President's assassination, a country threatens to tear itself apart...and your team along with it. Teamwork is at the core of the game. Bravo Team has been developed to allow both single player and online 2 player co-op* where you and your teammate must use everything at your disposal to survive. Communication is essential...should you split-up? Who takes that weapon? What can you see? Together you'll need to work out a strategy to succeed and make your escape.",
+            "img": "https://now.estarland.com/images/products/34/54434/166422.jpg",
+            "price": "15",
+            "catgory": "gameps"
+        },
+        {
+            "id": 13,
+            "name": "CALL OF DUTY: MODERN WARFARE",
+            "description": "The stakes have never been higher as players take on the role of lethal Tier One operators in a heart-racing saga that will affect the global balance of power. Call of Duty: Modern Warfare engulfs fans in an incredibly raw, gritty, provocative narrative that brings unrivaled intensity and shines a light on the changing nature of modern war. Developed by the studio that started it all, Infinity Ward delivers an epic reimagining of the iconic Modern Warfare series from the ground up.",
+            "img": "https://now.estarland.com/images/products/21/58221/PS4-Call-of-Duty-Modern-Warfare-2019-rating-update-large-image.jpg",
+            "price": "50",
+            "catgory": "gameps"
+        },
+        {
+            "id": 14,
+            "name": "CALL OF DUTY: BLACK OPS COLD WAR",
+            "description": "The iconic Black Ops series is back with Call of Duty: Black Ops Cold War - the direct sequel to the original and fan-favorite Call of Duty: Black Ops. Black Ops Cold War will drop fans into the depths of the Cold War’s volatile geopolitical battle of the early 1980s. Nothing is ever as it seems in a gripping single-player Campaign, where players will come face-to-face with historical figures and hard truths, as they battle around the globe through iconic locales like East Berlin, Vietnam, Turkey, Soviet KGB headquarters and more.",
+            "img": "https://now.estarland.com/images/products/10/62010/PS4-Call-of-Duty-Black-Ops-Cold-War-large-image.jpg",
+            "price": "60",
+            "catgory": "gameps"
+        },
+        {
+            "id": 15,
+            "name": "CALL OF DUTY: MODERN WARFARE II",
+            "description": "Call of Duty: Modern Warfare II is the sequel to 2019’s blockbuster Modern Warfare. Featuring the return of the iconic, team leader Captain John Price, the fearless John Soap MacTavish, the seasoned Sergeant Kyle Gaz Garrick, and the lone wolf himself, fan favorite Simon “Ghost” Riley, witness what makes Task Force 141 (TF141) the legendary squad it is today.",
+            "img": "https://now.estarland.com/images/products/20/70520/PS4-Call-Of-Duty-Modern-Warfare-II-large-image.jpg",
+            "price": "70",
+            "catgory": "gameps"
+        },
+        {
+            "id": 16,
+            "name": "COBRA KAI: THE KARATE KID SAGA CONTINUES",
+            "description": "Choose a side, master your moves, and embrace your destiny in an epic beat 'em up adventure inspired by the hit show. Take control of 8 playable characters with deep movesets, combos, progression, real-time character swaps, ultimate attacks, and much more! 34 years after the events of the 1984 All Valley Karate Tournament, the rivalry of Daniel LaRusso and Johnny Lawrence continues. The fight is in your hands now!",
+            "img": "https://now.estarland.com/images/products/53/61253/PS4-Cobra-Kai-large-image.jpg",
+            "price": "70",
+            "catgory": "gameps"
+        },
+        {
+            "id": 17,
+            "name": "CONTROL",
+            "description": "You’ll uncover the secret activities of the Bureau agents and explore the strange and shifting halls of the Bureau’s headquarters, The Oldest House. Unlock new abilities with Objects of Power and upgrade your Service Weapon to take on bigger and more powerful enemies. Venture into lost sectors in the challenging Expeditions mode. Solve puzzles and complete quests to discover the secret of Jesse’s past and the true purpose of the Bureau of Control. Above all, you must defeat the relentless Hiss.",
+            "img": "https://now.estarland.com/images/products/78/56978/PS4-Control-rating-update-large-image.jpg",
+            "price": "20",
+            "catgory": "gameps"
+        },
+        {
+            "id": 18,
+            "name": "DARK SOULS II: SCHOLAR OF THE FIRST SIN",
+            "description": "Prepare to Die again in the complete Dark Souls 2 experience with Dark Souls 2: Scholar of the First Sin. Hallmark challenge & reward await you with augmentations, additions and enhancements fueled by the passion and talent of famed Japanese studio FromSoftware.",
+            "img": "https://now.estarland.com/images/products/49/46749/126877.jpg",
+            "price": "17",
+            "catgory": "gameps"
+        },
+        {
+            "id": 19,
+            "name": "DARK SOULS III",
+            "description": "As fires fade and the world falls into ruin, developer From Software and director Hidetaka Miyazaki continue their critically-acclaimed and genre-defining series with Dark Souls III. Fans and newcomers alike will get lost in the games hallmark rewarding gameplay and immersive graphics.",
+            "img": "https://now.estarland.com/images/products/1/48001/159308.jpg",
+            "price": "14",
+            "catgory": "gameps"
+        },
+        {
+            "id": 20,
+            "name": "DARK SOULS III: THE FIRE FADES EDITION",
+            "description": "The Dark Souls III: The Fire Fades Edition delivers the complete Dark Souls III experience and includes the full game & all Season Pass content - Ashes of Ariandel and The Ringed City DLC expansions. Winner of 2017 DICE Awards for RPG/Massively Multiplayer Game of the Year and the 2016 Golden Joystick Award's Ultimate Game of the Year, Dark Souls III continues to push the boundaries with the latest chapter in the critically-acclaimed and genre-defining series from director Hidetaka Miyazaki. Players will be immersed into a world of epic atmosphere and darkness with colossal enemies, expansive environments, and challenging and intense gameplay combat. As fires fade and the world falls into ruin, prepare yourself once more to Embrace The Darkness!",
+            "img": "https://now.estarland.com/images/products/16/53416/155342.jpg",
+            "price": "20",
+            "catgory": "gameps"
+        },
+        {
+            "id": 21,
+            "name": "DARK SOULS REMASTERED",
+            "description": "Then, there was fire. Re-experience the critically acclaimed, genre-defining game that started it all. Beautifully remastered, return to Lordran in stunning high-definition detail running at 60fps. Dark Souls Remastered includes the main game plus the Artorias of the Abyss DLC. All 4 platforms will have dedicated servers.",
+            "img": "https://now.estarland.com/images/products/9/55409/171184.jpg",
+            "price": "20",
+            "catgory": "gameps"
+        },
+        {
+            "id": 22,
+            "name": "DAYS GONE",
+            "description": "Days Gone is an open-world action-adventure game set two years after a devastating global pandemic. Play as Deacon St. John, a bounty hunter facing a brutal struggle for survival, searching for a reason to live.",
+            "img": "https://now.estarland.com/images/products/28/52828/PS4-Days-Gone-cover-update-large-image.jpg",
+            "price": "30",
+            "catgory": "gameps"
+        },
+        {
+            "id": 23,
+            "name": "FIFA 22",
+            "description": "Powered by Football™, EA SPORTS™ FIFA 22 on PlayStation 5 and Xbox Series X|S moves the game forward with groundbreaking next-gen HyperMotion gameplay technology that elevates every moment on the pitch. HyperMotion integrates advanced full-team mocap data and machine learning to heighten gameplay in every match in FIFA 22, harnessing the power of next generation consoles to deliver the most realistic, responsive and fluid gameplay experience we’ve ever built. FIFA 22 brings a new season of innovation across every mode in the game; enjoy more consistency between the posts with a goalkeeper rewrite that brings more composure to the most important position on the pitch, live out your football dreams as you create and manage your custom club to glory in Career Mode, get rewarded for your flair with restyled gameplay in VOLTA FOOTBALL, welcome back football’s most memorable players as FIFA Ultimate Team™ Heroes, and feel the atmosphere of your next big game with the most immersive matchday experience ever seen in EA SPORTS FIFA.",
+            "img": "https://now.estarland.com/images/products/52/65152/PS4-FIFA-22-large-image.jpg",
+            "price": "30",
+            "catgory": "gameps"
+        },
+        {
+            "id": 24,
+            "name": "FIFA 21",
+            "description": "Win as one in EA SPORTS' FIFA 21 with new ways to team up and express yourself on the street and in the stadium. Powered by Frostbite, FIFA 21 raises the game with fresh features that let you enjoy even bigger victories together in VOLTA FOOTBALL and FIFA Ultimate Team, feel a new level of gameplay realism that rewards you for your creativity and control, manage every moment in Career Mode, and experience unrivaled authenticity that gives you the most true-to-life experience of The World’s Game.",
+            "img": "https://now.estarland.com/images/products/26/61526/PS4-FIFA-21-rating-update-large-image.jpg",
+            "price": "20",
+            "catgory": "gameps"
+        },
+        {
+            "id": 25,
+            "name": "FIFA 20",
+            "description": "Powered by Frostbite, EA SPORTS FIFA 20 brings two sides of The World’s Game to life - the prestige of the professional stage and an all-new authentic street football experience in EA SPORTS VOLTA. FIFA 20 innovates across the game, FOOTBALL INTELLIGENCE unlocks an unprecedented platform for gameplay realism, FIFA Ultimate Team offers more ways to build your dream squad, and EA SPORTS VOLTA returns the game to the street, with an authentic form of small-sided football.",
+            "img": "https://now.estarland.com/images/products/42/58642/PS4-FIFA-20-large-image.jpg",
+            "price": "8",
+            "catgory": "gameps"
+        },
+        {
+            "id": 26,
+            "name": "NBA 2K20",
+            "description": "This isn’t a game. This is the place the game comes to learn. This is the place the present can’t catch. Where next gets known and the ball decides your fate. From the blacktop to the hardwood and throughout the Neighborhood, NBA 2K20 and its next level features are the closest thing to actually playing in the league.",
+            "img": "https://now.estarland.com/images/products/36/58536/PS4-NBA-2K20-large-image.jpg",
+            "price": "6",
+            "catgory": "gameps"
+        },
+        {
+            "id": 27,
+            "name": "NBA 2K21",
+            "description": "NBA 2K21 is the latest title in the world-renowned, best-selling NBA 2K series, delivering an industry-leading sports video game experience. With extensive improvements upon its best-in-class graphics and gameplay, competitive and community online features, and deep, varied game modes, NBA 2K21 offers one-of-a-kind immersion into all facets of NBA basketball and culture - where Everything is Game.",
+            "img": "https://now.estarland.com/images/products/34/61234/PS4-NBA-2K21-rating-update-large-image.jpg",
+            "price": "20",
+            "catgory": "gameps"
+        },
+        {
+            "id": 28,
+            "name": "NBA 2K22",
+            "description": "A WORLD OF BASKETBALL. NBA 2K22 puts the entire basketball universe in your hands. PLAY NOW in real NBA and WNBA environments against authentic teams and players. Build your own dream team in MyTEAM with today’s stars and yesterday’s legends. Live out your own pro journey in MyCAREER and experience your personal rise to the NBA. Flex your management skills as a powerful Executive in MyGM and MyLEAGUE. Anyone, anywhere can hoop in NBA 2K22.",
+            "img": "https://now.estarland.com/images/products/5/64905/PS4-NBA-2K22-large-image.jpg",
+            "price": "20",
+            "catgory": "gameps"
+        }
+    ],
+    "Xbox": [
+        {
+            "id": 1,
+            "title": "MICROSOFT XBOX ONE",
+            "model": "CALL OF DUTY: ADVANCED WARFARE LIMITED EDITION SYSTEM - REFURBISHED",
+            "storage space": "1TB",
+            "company": "MICROSOFT",
+            "catgory": "XBOX ONE",
+            "img": "https://now.estarland.com/images/products/24/58824/XB1-Microsoft-Xbox-One-1TB-CoD-Advanced-Warfare-LE-System-Refurbished-large-image.jpg",
+            "price": "320"
+        },
+        {
+            "id": 2,
+            "title": "MICROSOFT XBOX ONE",
+            "model": "CALL OF DUTY: ADVANCED WARFARE LIMITED EDITION SYSTEM ",
+            "storage space": "1TB",
+            "company": "MICROSOFT",
+            "catgory": "XBOX ONE",
+            "img": "https://now.estarland.com/images/products/24/58824/XB1-Microsoft-Xbox-One-1TB-CoD-Advanced-Warfare-LE-System-Refurbished-large-image.jpg",
+            "price": "500"
+        },
+        {
+            "id": 3,
+            "title": "MICROSOFT XBOX ONE",
+            "model": "FORZA MOTORSPORT 6 LIMITED EDITION SYSTEM",
+            "storage space": "1TB",
+            "company": "MICROSOFT",
+            "catgory": "XBOX ONE",
+            "img": "https://now.estarland.com/images/products/67/58767/XB1-Microsoft-Xbox-One-1TB-Forza-Motorsport-6-LE-Refurbished-System-Grade-A-large-image.jpg",
+            "price": "500"
+        },
+        {
+            "id": 4,
+            "title": "MICROSOFT XBOX ONE",
+            "model": "SYSTEM TRADE-IN  ",
+            "storage space": "1TB",
+            "company": "MICROSOFT",
+            "catgory": "XBOX ONE",
+            "img": "https://now.estarland.com/images/products/36/49436/128072.jpg",
+            "price": "300"
+        },
+        {
+            "id": 5,
+            "title": "MICROSOFT XBOX ONE",
+            "model": "HALO 5: GUARDIANS LIMITED EDITION SYSTEM TRADE-IN",
+            "storage space": "1TB",
+            "company": "MICROSOFT",
+            "catgory": "XBOX ONE",
+            "img": "https://now.estarland.com/images/products/44/48644/128071.jpg",
+            "price": "400"
+        },
+        {
+            "id": 6,
+            "title": "MICROSOFT XBOX ONE",
+            "model": "HALO: THE MASTER CHIEF COLLECTION BUNDLE",
+            "storage space": "500GB",
+            "company": "MICROSOFT",
+            "catgory": "XBOX ONE",
+            "img": "https://now.estarland.com/images/products/56/48456/128076.jpg",
+            "price": "400"
+        },
+        {
+            "id": 7,
+            "title": "MICROSOFT XBOX ONE-S",
+            "model": "ALL DIGITAL EDITION SYSTEM - REFURBISHED",
+            "storage space": "1TB",
+            "company": "MICROSOFT",
+            "catgory": "XBOX ONE-S",
+            "img": "https://now.estarland.com/images/products/26/58826/XB1-Microsoft-Xbox-One-S-1TB-All-Digital-Edition-System-Refurbished-large-image.jpg",
+            "price": "275"
+        },
+        {
+            "id": 8,
+            "title": "MICROSOFT XBOX ONE-S",
+            "model": "ALL DIGITAL EDITION SYSTEM ",
+            "storage space": "1TB",
+            "company": "MICROSOFT",
+            "catgory": "XBOX ONE-S",
+            "img": "https://now.estarland.com/images/products/27/58827/XB1-Microsoft-Xbox-One-S-1TB-All-Digital-Edition-System-Trade-In-large-image.jpg",
+            "price": "500"
+        },
+        {
+            "id": 9,
+            "title": "MICROSOFT XBOX ONE-S",
+            "model": "GEARS OF WAR 4 LIMITED EDITION ",
+            "storage space": "2TB",
+            "company": "MICROSOFT",
+            "catgory": "XBOX ONE-S",
+            "img": "https://now.estarland.com/images/products/14/53414/155329.jpg",
+            "price": "300"
+        },
+        {
+            "id": 10,
+            "title": "MICROSOFT XBOX ONE-S",
+            "model": "WHITE REFURBISHED SYSTEM",
+            "storage space": "1TB",
+            "company": "MICROSOFT",
+            "catgory": "XBOX ONE-S",
+            "img": "https://now.estarland.com/images/products/54/58554/XB1-Microsoft-Xbox-One-S-1TB-Refurbished-System-Grade-A-large-image.jpg",
+            "price": "280"
+        },
+        {
+            "id": 11,
+            "title": "MICROSOFT XBOX ONE-S",
+            "model": "HALO COLLECTION BUNDLE",
+            "storage space": "500TB",
+            "company": "MICROSOFT",
+            "catgory": "XBOX ONE-S",
+            "img": "https://now.estarland.com/images/products/93/52393/155316.jpg",
+            "price": "300"
+        },
+        {
+            "id": 12,
+            "title": "MICROSOFT XBOX ONE-X",
+            "model": "CYBERPUNK 2077 LIMITED EDITION SYSTEM",
+            "storage space": "1TB",
+            "company": "MICROSOFT",
+            "catgory": "XBOX ONE-X",
+            "img": "https://now.estarland.com/images/products/93/67093/XBox-One-Xbox-One-X-1TB-Console-Cyberpunk-2077-Limited-Edition-large-image.jpg",
+            "price": "450"
+        },
+        {
+            "id": 13,
+            "title": "MICROSOFT XBOX ONE-X",
+            "model": "GEARS 5 LIMITED EDITION SYSTEM",
+            "storage space": "1TB",
+            "company": "MICROSOFT",
+            "catgory": "XBOX ONE-X",
+            "img": "https://now.estarland.com/images/products/61/58861/XBox-One-Xbox-One-X-1TB-Console-Gears-5-Limited-Edition-large-image.jpg",
+            "price": "600"
+        },
+        {
+            "id": 14,
+            "title": "MICROSOFT XBOX SERIES X",
+            "model": "",
+            "storage space": "1TB",
+            "company": "MICROSOFT",
+            "catgory": "XBOX SERIES X",
+            "img": "https://now.estarland.com/images/products/57/62657/XBSX-Microsoft-Xbox-Series-X-1TB-System-Trade-In-large-image.jpg",
+            "price": "400"
+        },
+        {
+            "id": 15,
+            "title": "MICROSOFT XBOX SERIES X",
+            "model": "Black",
+            "storage space": "1TB",
+            "company": "MICROSOFT",
+            "catgory": "XBOX ONE-X",
+            "img": "https://now.estarland.com/images/products/92/62392/XBSX-Microsoft-Xbox-Series-X-System-New-large-image.jpg",
+            "price": "500"
+        }
+    ],
+    "headphonesXbox": [
+        {
+            "id": 1,
+            "title": "XBOX ONE HeadSet",
+            "model": "GRX-440 ADVANCED WIRED",
+            "company": "dreamGEAR",
+            "img": "https://now.estarland.com/images/products/49/55649/168922.jpg",
+            "price": "50",
+            "catgory": "headsetxbox"
+        },
+        {
+            "id": 2,
+            "title": "XBOX-HEADSET",
+            "model": "BY KMD",
+            "company": "KMD",
+            "img": "https://now.estarland.com/images/products/91/51691/128111.jpg",
+            "price": "30",
+            "catgory": "headsetxbox"
+        }
+    ],
+    "dualshockXbox": [
+        {
+            "id": 1,
+            "title": "XBOX-DUALSHOCK",
+            "model": "ENHANCED WIRED CONTROLLER: EMERALD FADE ",
+            "company": "PowerA",
+            "img": "https://now.estarland.com/images/products/29/60429/XB1-Xbox-One-Enhanced-Wired-Controller-Emerald-Fade-large-image.jpg",
+            "price": "20",
+            "catgory": "dualshockxbox"
+        },
+        {
+            "id": 2,
+            "title": "XBOX-DUALSHOCK",
+            "model": "ELITE WIRELESS CONTROLLER",
+            "company": "Microsoft",
+            "img": "https://now.estarland.com/images/products/32/48732/165609.jpg",
+            "price": "120",
+            "catgory": "dualshockxbox"
+        },
+        {
+            "id": 3,
+            "title": "XBOX-DUALSHOCK",
+            "model": "POWERA PRO EX WIRED CONTROLLER WHITE",
+            "company": "PowerA",
+            "img": "https://now.estarland.com/images/products/96/49596/xb1-powera-proex-wired-controller-white2.jpg",
+            "price": "25",
+            "catgory": "dualshockxbox"
+        },
+        {
+            "id": 4,
+            "title": "XBOX-DUALSHOCK",
+            "model": "WIRELESS COMBAT TECH CONTROLLER",
+            "company": "Microsoft",
+            "img": "https://now.estarland.com/images/products/38/55938/170138.jpg",
+            "price": "50",
+            "catgory": "dualshockxbox"
+        },
+        {
+            "id": 5,
+            "title": "XBOX-DUALSHOCK",
+            "model": "WIRELESS CONTROLLER ARMED FORCES 2",
+            "company": "Microsoft",
+            "img": "https://now.estarland.com/images/products/48/57248/XB1-Xbox-One-Wireless-Controller-Armed-Forces-2-SE-large-image.jpg",
+            "price": "60",
+            "catgory": "dualshockxbox"
+        },
+        {
+            "id": 6,
+            "title": "XBOX-SERIES X-DUALSHOCK",
+            "model": "WIRELESS CORE CONTROLLER ROBOT WHITE",
+            "company": "Microsoft",
+            "img": "https://now.estarland.com/images/products/20/63320/XBSX-Xbox-Series-Wireless-Core-Controller-Robot-White-large-image.jpg",
+            "price": "60",
+            "catgory": "dualshockxbox"
+        },
+        {
+            "id": 7,
+            "title": "XBOX-SERIES X-DUALSHOCK",
+            "model": "ENHANCED WIRED CONTROLLER METALLIC RED CAMO",
+            "company": "Microsoft",
+            "img": "https://now.estarland.com/images/products/44/69544/Xbox-Series-X-Enhanced-Wired-Controller-Metallic-Red-Camo-large-image.jpg",
+            "price": "40",
+            "catgory": "dualshockxbox"
+        }
+    ],
+    "xboxGame": [
+        {
+            "id": 1,
+            "name": "ASSASSIN'S CREED ODYSSEY",
+            "description": "The newest entry in Ubisoft's massively popular series of stealth-action games, Assassin's Creed Odyssey takes place in a far away land that is a first for the franchise: Ancient Greece. Take on the role of an assassin in a world filled with Spartans and Persians, explore real-world locations, and live up to your birthright",
+            "img": "https://now.estarland.com/images/products/64/56164/Xb1-ASSASSINS-CREED-ODYSSEY-large-image.jpg",
+            "price": "30",
+            "catgory": "gamexbox"
+        },
+        {
+            "id": 2,
+            "name": "ASSASSIN'S CREED ORIGINS",
+            "description": "Assassin’s Creed Origins is a new beginning. Take on epic enemies with a whole new combat system. Explore the Great Pyramids and hidden tombs across the country of Ancient Egypt. Experience visceral quests that contribute to your overall progression and discover the origin story of the Assassin’s Brotherhood.",
+            "img": "https://now.estarland.com/images/products/90/53790/162210.jpg",
+            "price": "20",
+            "catgory": "gamexbox"
+        },
+        {
+            "id": 3,
+            "name": "ASSASSIN'S CREED VALHALLA ",
+            "description": "Become Eivor, a legendary Viking raider on a quest for glory. Explore England's Dark Ages as you raid your enemies, grow your settlement, and build your political power.",
+            "img": "https://now.estarland.com/images/products/24/61524/XB1-Assassins-Creed-Valhalla-rating-update-large-image.jpg",
+            "price": "30",
+            "catgory": "gamexbox"
+        },
+        {
+            "id": 4,
+            "name": "ASSASSIN'S CREED UNITY COLLECTOR'S EDITION",
+            "description": "For centuries, France has been ruled by the privileged few. No longer. On this day, the people of Paris have risen up against tyranny. Now, in the midst of one of history’s most chaotic and brutal revolutions, the fate of a nation rests on the edge of the Assassin’s blade.",
+            "img": "https://now.estarland.com/images/products/53/55753/169061.jpg",
+            "price": "70",
+            "catgory": "gamexbox"
+        },
+        {
+            "id": 5,
+            "name": "BORDERLANDS: THE HANDSOME COLLECTION",
+            "description": "Borderlands: The Handsome Collection is the essential Borderlands compilation and includes the definitive versions of both Borderlands 2 and Borderlands: The Pre-Sequel, built specifically for next-gen consoles. PlayStation 4 and Xbox One customers will experience the absolute highest performance and highest fidelity graphics for any Borderlands game ever played on a video game console. For the first time in the franchise's history, play four-player split screen on a single television, all in stunning high definition.",
+            "img": "https://now.estarland.com/images/products/hr/47137/710425495328.jpg",
+            "price": "18",
+            "catgory": "gamexbox"
+        },
+        {
+            "id": 6,
+            "name": "BORDERLANDS 3",
+            "description": "The original shooter-looter returns, packing bazillions of guns and a mayhem-fueled adventure! Blast through new worlds and enemies as one of four brand new Vault Hunters, each with deep skill trees, abilities and customization. Play solo or join with friends to take on insane enemies, score loads of loot and save your home from the most ruthless cult leaders in the galaxy.",
+            "img": "https://now.estarland.com/images/products/43/57743/XB1-Borderlands-3-rating-update-large-image.jpg",
+            "price": "15",
+            "catgory": "gamexbox"
+        },
+        {
+            "id": 7,
+            "name": "A PLAGUE TALE: REQUIEM",
+            "description": "Far across the sea, an island calls…Embark on a heartrending journey into a brutal, breathtaking world twisted by supernatural forces. After escaping their devastated homeland, Amicia and Hugo travel far south, to new regions and vibrant cities. There, they attempt to start a new life and control Hugo’s curse. But, when Hugo’s powers reawaken, death and destruction return in a flood of devouring rats. Forced to flee once more, the siblings place their hopes in a prophesized island that may hold the key to saving Hugo. Discover the cost of saving those you love in a desperate struggle for survival. Strike from the shadows or unleash hell, overcoming foes and challenges with a variety of weapons, tools and unearthly powers.",
+            "img": "https://now.estarland.com/images/products/70/69270/Xbox-Series-X-A-Plague-Tale-Requiem-large-image.jpg",
+            "price": "60",
+            "catgory": "gamexbox"
+        },
+        {
+            "id": 8,
+            "name": "ALAN WAKE REMASTERED",
+            "description": "In this award-winning cinematic action-thriller, troubled author Alan Wake embarks on a desperate search for his missing wife, Alice. As he discovers the pages of a horror story he has supposedly written, but has no memory of, Wake's grip on reality is threatened as he confronts the darkness closing in. The horror story is coming true...",
+            "img": "https://now.estarland.com/images/products/31/66731/Xbox-Series-X-Alan-Wake-Remastered-large-image.jpg",
+            "price": "40",
+            "catgory": "gamexbox"
+        },
+        {
+            "id": 9,
+            "name": "ASSASSIN'S CREED VALHALLA",
+            "description": "Become Eivor, a legendary Viking raider on a quest for glory. Explore England's Dark Ages as you raid your enemies, grow your settlement, and build your political power.",
+            "img": "https://now.estarland.com/images/products/24/61524/XB1-Assassins-Creed-Valhalla-rating-update-large-image.jpg",
+            "price": "60",
+            "catgory": "gamexbox"
+        },
+        {
+            "id": 10,
+            "name": "BATTLEFIELD 2042",
+            "description": "Battlefield 2042 is a first-person shooter that marks the return to the iconic all-out warfare of the franchise. In a near-future world transformed by disorder, adapt and overcome dynamically-changing battlegrounds with the help of your squad and a cutting-edge arsenal. With support for 128 players, Battlefield™ 2042 brings unprecedented scale on vast environments across the globe. Players will take on several massive experiences, from updated multiplayer modes like Conquest and Breakthrough to the all-new Hazard Zone and Battlefield Portal.",
+            "img": "https://now.estarland.com/images/products/78/65178/Xbox-Series-X-Battlefield-2042-large-image.jpg",
+            "price": "30",
+            "catgory": "gamexbox"
+        },
+        {
+            "id": 11,
+            "name": "CALL OF DUTY: BLACK OPS COLD WAR",
+            "description": "The iconic Black Ops series is back with Call of Duty: Black Ops Cold War - the direct sequel to the original and fan-favorite Call of Duty: Black Ops. Black Ops Cold War will drop fans into the depths of the Cold War’s volatile geopolitical battle of the early 1980s. Nothing is ever as it seems in a gripping single-player Campaign, where players will come face-to-face with historical figures and hard truths, as they battle around the globe through iconic locales like East Berlin, Vietnam, Turkey, Soviet KGB headquarters and more.",
+            "img": "https://now.estarland.com/images/products/11/62011/XB1-Call-of-Duty-Black-Ops-Cold-War-large-image.jpg",
+            "price": "60",
+            "catgory": "gamexbox"
+        },
+        {
+            "id": 12,
+            "name": "CALL OF DUTY: MODERN WARFARE II",
+            "description": "Call of Duty: Modern Warfare II is the sequel to 2019’s blockbuster Modern Warfare. Featuring the return of the iconic, team leader Captain John Price, the fearless John Soap MacTavish, the seasoned Sergeant Kyle Gaz Garrick, and the lone wolf himself, fan favorite Simon “Ghost” Riley, witness what makes Task Force 141 (TF141) the legendary squad it is today.",
+            "img": "https://now.estarland.com/images/products/22/70522/Xbox-Series-X-Call-Of-Duty-Modern-Warfare-II-large-image.jpg",
+            "price": "70",
+            "catgory": "gamexbox"
+        },
+        {
+            "id": 13,
+            "name": "CONTROL ULTIMATE EDITION",
+            "description": "Control Ultimate Edition contains the main game and all previously released Expansions (The Foundation and AWE) in one great value package.",
+            "img": "https://now.estarland.com/images/products/93/61993/XB1-Control-Ultimate-Edition-large-image.jpg",
+            "price": "30",
+            "catgory": "gamexbox"
+        },
+        {
+            "id": 14,
+            "name": "DARK PICTURES ANTHOLOGY: HOUSE OF ASHES",
+            "description": "The Dark Pictures Anthology is a series of standalone, cinematic branching horror games where the decisions you make in the game determine the story you receive House of Ashes is the third game in the series.",
+            "img": "https://now.estarland.com/images/products/92/63392/XB1-Dark-Pictures-Anthology-House-of-Ashes-large-image.jpg",
+            "price": "20",
+            "catgory": "gamexbox"
+        },
+        {
+            "id": 15,
+            "name": "FAR CRY 6 ",
+            "description": "Welcome to Yara, a tropical paradise frozen in time. As the dictator of Yara, Anton Castillo is intent on restoring his nation back to its former glory by any means, with his son, Diego, following in his bloody footsteps. Their oppressive rule has ignited a revolution.",
+            "img": "https://now.estarland.com/images/products/37/61537/XBox-One-Far-Cry-6-large-image.jpg",
+            "price": "30",
+            "catgory": "gamexbox"
+        },
+        {
+            "id": 16,
+            "name": "GRAND THEFT AUTO V",
+            "description": "Includes Grand Theft Auto V: Story Mode and Grand Theft Auto Online. Continue your journey on Xbox Series X|S and transfer both GTAV Story Mode progress and GTA Online characters and progression to Xbox Series X|S with a one-time migration. Experience entertainment blockbusters, Grand Theft Auto V and GTA Online — now for Xbox Series X|S. Xbox Series X|S players can enjoy new high-performance vehicle upgrades and improvements like the Career Builder as well as all GTA Online gameplay upgrades, expansions, and content released since launch, ready to enjoy solo or with friends. Pull off daring co-operative Heists, enter adrenaline-fueled Stunt Races, compete in unique Adversary Modes, or hang out in social spaces including nightclubs, arcades, penthouse parties, car meetups, and much more.",
+            "img": "https://now.estarland.com/images/products/68/69468/Xbox-Series-X-Grand-Theft-Auto-V-large-image.jpg",
+            "price": "40",
+            "catgory": "gamexbox"
+        },
+        {
+            "id": 17,
+            "name": "GOAT SIMULATOR 3",
+            "description": "Goat Simulator 3 is a brand new third-person action game in which you get to become the literal GOAT. Just like the first Goat Simulator, you’ll need to climb, headbutt and lick your way across an open world map - this time with all new areas, challenges, and events to discover.",
+            "img": "https://now.estarland.com/images/products/61/71361/Xbox-Series-X-Goat-Simulator-3-large-image.jpg",
+            "price": "30",
+            "catgory": "gamexbox"
+        },
+        {
+            "id": 18,
+            "name": "CRISIS CORE: FINAL FANTASY VII REUNION",
+            "description": "CRISIS CORE –FINAL FANTASY VII– REUNION is a remaster of the original CRISIS CORE –FINAL FANTASY VII-, featuring a complete HD graphics overhaul, a remastered soundtrack, a reimagined UI, and an updated combat system. The story begins seven years before the events of FINAL FANTASY VII (1997) and follows Zack Fair, a young and ambitious Shinra SOLDIER operative. Zack is tasked with tracking down a missing SOLDIER 1st Class operative named Genesis Rhapsodos. But as his adventure unfolds, he discovers the dark secrets of Shinra’s experiments and the monsters they create. The game features a number of characters from the FINAL FANTASY VII franchise such as Cloud, Sephiroth, Aerith and others. CRISIS CORE –FINAL FANTASY VII– REUNION has been completely remastered for Xbox Series X|S and is coming this winter.",
+            "img": "https://now.estarland.com/images/products/49/71649/Xbox-One-Crisis-Core-Final-Fantasy-VII-Reunion-large-image.jpg",
+            "price": "50",
+            "catgory": "gamexbox"
+        },
+        {
+            "id": 19,
+            "name": "WEREWOLF: THE APOCALYPSE - EARTHBLOOD ",
+            "description": "Werewolf: The Apocalypse – Earthblood offers a unique experience full of savage combat and mystical adventures, inspired by the famous role-playing game. You are Cahal, a powerful Garou who chose to go into exile after losing control of his destructive rage. You must master the three forms and powers of human, wolf, and the giant ferocious beast Crinos to punish those who defile Gaia, Mother Earth. Each form has its advantages: the wolf can sneak around undetected, Cahal as a human can interact with other people, and the werewolf can unleash is rage to tear enemies apart. This rage is your greatest asset, but also your weakness – if you don’t contain it, it can destroy you once again. On your quest for redemption and blood, you will play a crucial role in the great war between the Garou and Endron, a powerful oil company that serves the Wyrm, a destructive spirit ravaging the planet.",
+            "img": "https://now.estarland.com/images/products/27/62127/XB1-Werewolf-The-Apocalypse-Earthblood-rating-update-large-image.jpg",
+            "price": "25",
+            "catgory": "gamexbox"
+        },
+        {
+            "id": 20,
+            "name": "FIFA 21",
+            "description": "Win as one in EA SPORTS' FIFA 21 with new ways to team up and express yourself on the street and in the stadium. Powered by Frostbite, FIFA 21 raises the game with fresh features that let you enjoy even bigger victories together in VOLTA FOOTBALL and FIFA Ultimate Team, feel a new level of gameplay realism that rewards you for your creativity and control, manage every moment in Career Mode, and experience unrivaled authenticity that gives you the most true-to-life experience of The World’s Game.",
+            "img": "https://now.estarland.com/images/products/27/61527/XB1-FIFA-21-rating-update-large-image.jpg",
+            "price": "20",
+            "catgory": "gamexbox"
+        },
+        {
+            "id": 21,
+            "name": "FIFA 23",
+            "description": "EA SPORTS™ FIFA 23 brings even more of the action and realism of football to the pitch in The World’s Game. Play the biggest tournaments in football with both the men’s and women’s FIFA World Cup™ tournaments coming to FIFA 23 during the season, play as women’s club teams for the first time ever, plus enjoy cross-play features that make it easier to play against friends. Enjoy a new way to play and build your dream squad in FIFA Ultimate Team™ with FUT Moments and a revamped Chemistry system, or live out your football dreams in Career Mode as you define your personality as a player and manage as some of football’s most famous names. In VOLTA FOOTBALL and Pro Clubs, bring more personality to the pitch with new levels of customisation and enhanced street and stadium gameplay. However you play, experience The World’s Game with over 19,000 players, 700+ teams, 100+ stadiums, and over 30 leagues - including the UEFA Champions League, Premier League, new Barclays FA Women’s Super League and France D1 Arkema with unrivalled authenticity in FIFA 23.",
+            "img": "https://now.estarland.com/images/products/59/70659/Xbox-Series-X-FIFA-23-large-image.jpg",
+            "price": "70",
+            "catgory": "gamexbox"
+        },
+        {
+            "id": 22,
+            "name": "FIFA 22",
+            "description": "Powered by Football™, EA SPORTS™ FIFA 22 on PlayStation 5 and Xbox Series X|S moves the game forward with groundbreaking next-gen HyperMotion gameplay technology that elevates every moment on the pitch. HyperMotion integrates advanced full-team mocap data and machine learning to heighten gameplay in every match in FIFA 22, harnessing the power of next generation consoles to deliver the most realistic, responsive and fluid gameplay experience we’ve ever built. FIFA 22 brings a new season of innovation across every mode in the game; enjoy more consistency between the posts with a goalkeeper rewrite that brings more composure to the most important position on the pitch, live out your football dreams as you create and manage your custom club to glory in Career Mode, get rewarded for your flair with restyled gameplay in VOLTA FOOTBALL, welcome back football’s most memorable players as FIFA Ultimate Team™ Heroes, and feel the atmosphere of your next big game with the most immersive matchday experience ever seen in EA SPORTS FIFA.",
+            "img": "https://now.estarland.com/images/products/54/65154/Xbox-Series-X-FIFA-22-large-image.jpg",
+            "price": "20",
+            "catgory": "gamexbox"
+        },
+        {
+            "id": 23,
+            "name": "TONY HAWK'S PRO SKATER 1 + 2 ",
+            "description": "Drop back in with the most iconic skateboarding games ever made. Play Tony Hawk’s Pro Skater & Tony Hawk’s Pro Skater 2 in one epic collection, rebuilt from the ground up in incredible HD. All the pro skaters, levels and tricks are back and fully-remastered, plus more. Break skateboarding boundaries, show off your own style, and be part of the next generation of skaters and creators with Tony Hawk’s Pro Skater 1 + 2.",
+            "img": "https://now.estarland.com/images/products/87/63287/XBSX-Tony-Hawks-Pro-Skater-1-plus-2-large-image.jpg",
+            "price": "40",
+            "catgory": "gamexbox"
+        }
+    ],
+    "AccessorXbox": [
+        {
+            "id": 1,
+            "title": "XBOX ONE MEDIA REMOTE",
+            "company": "Microsoft",
+            "img": "https://now.estarland.com/images/products/9/46809/128138.jpg",
+            "price": "30",
+            "catgory": "accessorxbox"
+        },
+        {
+            "id": 2,
+            "title": "XBOX ONE KINECT ADAPTER FOR XBOX ONE S",
+            "company": "Microsoft",
+            "img": "https://now.estarland.com/images/products/43/59143/XB1-Microsoft-Xbox-One-Kinect-Adapter-for-Xbox-One-S-and-Windows-10-PC-large-image.jpg",
+            "price": "40",
+            "catgory": "accessorxbox"
+        },
+        {
+            "id": 3,
+            "title": "XBOX SERIES X TWIN CHARGE SX CONTROLLER CHARGING STATION BLACK SNAKEBYTE",
+            "company": "snakebyte",
+            "img": "https://now.estarland.com/images/products/93/63293/XBSX-Xbox-Series-X-Twin-Charge-SX-Controller-Station-Black-Snakebyte-large-image.jpg",
+            "price": "25",
+            "catgory": "accessorxbox"
+        }
+    ],
+    "catgory": [
+        "ps4",
+        "gameps",
+        "headphonesPs",
+        "accessorPs",
+        "dualshockPs",
+        "gamexbox",
+        "dualshockxbox",
+        "headsetxbox",
+        "accessorxbox",
+        "XBOX ONE",
+        "XBOX ONE-S",
+        "XBOX ONE-X"
+    ]
+}

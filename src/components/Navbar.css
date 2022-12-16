@@ -1,0 +1,21 @@
+.count-parnt{
+    position: relative;
+    cursor: pointer;
+}
+.count{
+    position: absolute;
+    background-color: white;
+    width: 25px;
+    height: 25px;
+    right: -20px;
+    top: -5px;
+    clip-path: polygon(50% 0%, 90% 20%, 100% 60%, 75% 100%, 25% 100%, 0% 60%, 10% 20%);
+    padding: 0 6px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icon-size{
+    font-size: 30px;
+}

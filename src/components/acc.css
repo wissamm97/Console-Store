@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Press+Start+2P&family=Rubik+Vinyl&display=swap');
+
+
+
+
+
+ul li {
+  list-style-type: none;
+}
+a {
+  text-decoration: none !important;
+  color: black !important;
+}
+div {
+  outline: none;
+}
+.accordion-button::after {
+  display: none;
+}
+.li-b {
+  border-bottom: 2px solid green;
+}
+.pangan {
+  font-weight: bolder;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  transition: 4s;
+  color: #fff;
+  font-family: Iceland;
+  animation: neon2 4s ease-in-out infinite alternate;
+}
+@media (max-width: 760px) {
+  .edit {
+    flex-direction: column;
+    gap: 10px;
+  }
+}
+@keyframes neon2 {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #0853a3,
+      0 0 70px #0853a3, 0 0 80px #0853a3, 0 0 100px #0853a3, 0 0 150px #0853a3;
+  }
+  to {
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #0853a3,
+      0 0 35px #0853a3, 0 0 40px #0853a3, 0 0 50px #0853a3, 0 0 75px #0853a3;
+  }
+}
